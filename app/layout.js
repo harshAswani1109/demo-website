@@ -11,9 +11,9 @@ import Footer from "@/components/footer";
 export default function RootLayout({ children }) {
   return (
     <html lang="en">
-      <body>
+      <body className="bg-gray-400">
         <Navbar />
-        <section className="h-screen"> {children}</section>
+        <section className="min-h-screen p-4"> {children}</section>
         <Footer />
       </body>
     </html>
