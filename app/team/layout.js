@@ -2,11 +2,12 @@
 
 import Navbar from "@/components/navbar";
 
-const TeamLayout = ({ children1 }) => {
+const TeamLayout = ({ children }) => {
   return (
-    <html>
-      <body>{children1}</body>
-    </html>
+    // <html>
+    //   <body>{children}</body>
+    // </html>
+    <div>{children}</div>
   );
 };
 
