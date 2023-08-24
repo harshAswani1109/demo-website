@@ -23,7 +23,7 @@ function MobileNav({ open, setOpen }) {
         {" "}
         {/*logo container*/}
         <Link className="text-xl font-semibold" href="/">
-        THE ELECRUISERS
+          THE ELECRUISERS
         </Link>
       </div>
       <div className="flex flex-col ml-4">
@@ -62,14 +62,14 @@ function MobileNav({ open, setOpen }) {
         </Link>
         <Link
           className="text-xl font-normal my-4"
-          href="/sponsers"
+          href="/sponsors"
           onClick={() =>
             setTimeout(() => {
               setOpen(!open);
             }, 100)
           }
         >
-          Sponsers
+          Sponsors
         </Link>
         <Link
           className="text-xl font-normal my-4"
@@ -108,7 +108,7 @@ export default function Navbar() {
           <Image src={Logo1} alt="logo" height={80} width={80} />
         </Link>
         <Link className="" href="/">
-          <Image src={Logo2} alt="logo" height={140} width={140}  />
+          <Image src={Logo2} alt="logo" height={140} width={140} />
         </Link>
       </div>
       <div className="flex justify-end items-center">
