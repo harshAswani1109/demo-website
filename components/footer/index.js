@@ -28,7 +28,7 @@ const Footer = () => {
               Our Team
             </button>
           </Link>
-          <Link href="/sponsor  ">
+          <Link href="/sponsors  ">
             <button class="bg-white hover:bg-black hover:text-white text-black border-2 border-black font-bold p-2 rounded-full h-12 w-40 max-sm:w-72">
               Our Sponsors
             </button>
