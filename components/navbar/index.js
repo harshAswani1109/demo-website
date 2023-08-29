@@ -167,12 +167,6 @@ export default function Navbar() {
           >
             About
           </Link>
-          <Link
-            href="/contact"
-            className=" hover:bg-[#bc9b76] hover:text-white px-2 py-1 rounded-md transition"
-          >
-            Contact Us
-          </Link>
         </div>
       </div>
     </nav>
