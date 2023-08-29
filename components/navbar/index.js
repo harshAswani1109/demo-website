@@ -156,7 +156,7 @@ export default function Navbar() {
             Our Vision
           </Link>
           <Link
-            href="/sponsers"
+            href="/sponsors"
             className=" hover:bg-[#bc9b76] hover:text-white px-2 py-1 rounded-md transition"
           >
             Sponsors
@@ -166,12 +166,6 @@ export default function Navbar() {
             className=" hover:bg-[#bc9b76] hover:text-white px-2 py-1 rounded-md transition"
           >
             About
-          </Link>
-          <Link
-            href="/contact"
-            className=" hover:bg-[#bc9b76] hover:text-white px-2 py-1 rounded-md transition"
-          >
-            Contact Us
           </Link>
         </div>
       </div>
