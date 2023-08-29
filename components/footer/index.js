@@ -35,7 +35,7 @@ const Footer = () => {
           </Link>
         </div>
         <span className="text-sm mt-6">
-          © 2035 by Autono. Powered and secured by team 404
+          © 2035 by Autono. Powered by team 404
         </span>
       </div>
       <div className="flex justify-center items-center flex-col gap-6 my-6 md:w-4/12 w-full">
