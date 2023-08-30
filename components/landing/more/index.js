@@ -1,9 +1,9 @@
 import { GrNext } from "react-icons/gr";
 import Image from "next/image";
 import Link from "next/link";
-import i1 from "@/public/assets/ansys.png";
-import i2 from "@/public/assets/ansys.png";
-import i3 from "@/public/assets/ansys.png";
+import i1 from "../../../public/assets/logo2.png";
+import i2 from "../../../public/assets/logo1.png";
+import i3 from "../../../public/assets/logo3.png";
 const More = () => {
   const data = [
     {
@@ -40,7 +40,7 @@ const More = () => {
             key={item.id}
           >
             <div className="flex justify-center items-center w-full">
-              <Image src={item.image} alt={item.name} />
+              <Image src={item.image} alt={item.name} height={200}width={200} className="h-40 w-40"/>
             </div>
             <div className="flex justify-center items-start flex-col w-full gap-y-3">
               <h1 className="font-bold text-xl">{item.name}</h1>

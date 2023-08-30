@@ -24,52 +24,57 @@ const TeamPage = () => {
     {
       name: "",
       position: "",
-      img: "https://drive.google.com/file/d/1l39nI7b-H4SMnOw2hP3hQl3MDlCmMZHg/view?usp=sharing",
+      img: "https://static.wixstatic.com/media/ffb6a1_3cc2e4a1bdda41158fe7d9ee7a2cd248~mv2.jpg/v1/fill/w_289,h_372,al_c,q_80,usm_0.66_1.00_0.01,enc_auto/DSC_0190%20-%20Copy_edited.jpg",
     },
     {
       name: "",
       position: "",
-      img: "https://drive.google.com/file/d/1W77ZN89qSLmtl-CHHCuIWpO-59yniwS8/view?usp=sharing",
+      img: "https://static.wixstatic.com/media/ffb6a1_440e9ff94803489f8ca42146a12ca590~mv2.jpg/v1/fill/w_279,h_372,al_c,q_80,usm_0.66_1.00_0.01,enc_auto/DSC_0074%20-%20Copy_edited.jpg",
     },
     {
       name: "",
       position: "",
-      img: "https://drive.google.com/file/d/1Z5B9Qf7HQxFvuBA7vAHq4E6GRyEPrBTf/view?usp=sharing",
+      img: "https://static.wixstatic.com/media/ffb6a1_e2c049aca867495ca5f78dc409499aec~mv2.jpg/v1/fill/w_263,h_372,al_c,q_80,usm_0.66_1.00_0.01,enc_auto/DSC_0127%20-%20Copy_edited.jpg",
     },
     {
       name: "",
       position: "",
-      img: "https://drive.google.com/file/d/1OzjVeMNiu2rYfLfn_4P1CZkBkq4-eDsY/view?usp=sharing",
+      img: "https://static.wixstatic.com/media/ffb6a1_508e0ef49dba44529f60587fc9d7f4bd~mv2.jpg/v1/crop/x_62,y_0,w_1722,h_2257/fill/w_277,h_362,al_c,q_80,usm_0.66_1.00_0.01,enc_auto/DSC_0056%20-%20Copy_edited.jpg",
     },
     {
       name: "",
       position: "",
-      img: "https://drive.google.com/file/d/1VOPLz6BQVfo7K_Q3ccXXLke5ceXdGL_I/view?usp=sharing",
+      img: "https://static.wixstatic.com/media/ffb6a1_508e0ef49dba44529f60587fc9d7f4bd~mv2.jpg/v1/crop/x_62,y_0,w_1722,h_2257/fill/w_277,h_362,al_c,q_80,usm_0.66_1.00_0.01,enc_auto/DSC_0056%20-%20Copy_edited.jpg",
     },
     {
       name: "",
       position: "",
-      img: "https://drive.google.com/file/d/1Hb2vzxeyn2v7BoLM-REH0CJkACk3MfiV/view?usp=sharing",
+      img: "https://static.wixstatic.com/media/ffb6a1_15738a370a974619982301c2b373fa3a~mv2.jpg/v1/crop/x_0,y_0,w_4000,h_5192/fill/w_365,h_474,al_c,q_80,usm_0.66_1.00_0.01,enc_auto/ffb6a1_15738a370a974619982301c2b373fa3a~mv2.jpg",
     },
     {
       name: "",
       position: "",
-      img: "https://drive.google.com/file/d/1-BD-3CxgiZO7h8zFYke3yNJAkrqwybmI/view?usp=sharing",
+      img: "https://static.wixstatic.com/media/ffb6a1_0cd9c93e64294e2c907f5857b3032089~mv2.jpg/v1/crop/x_0,y_0,w_4000,h_5405/fill/w_351,h_475,al_c,q_80,usm_0.66_1.00_0.01,enc_auto/ffb6a1_0cd9c93e64294e2c907f5857b3032089~mv2.jpg"
     },
     {
       name: "",
       position: "",
-      img: "https://drive.google.com/file/d/1S95A6RwOvd9UPt7o3II3KcJ0urxMbhVQ/view?usp=sharing",
+      img: "https://static.wixstatic.com/media/ffb6a1_fff60974db704dbea29f3928d1f9df2c~mv2.jpg/v1/crop/x_0,y_0,w_4000,h_5248/fill/w_359,h_471,al_c,q_80,usm_0.66_1.00_0.01,enc_auto/ffb6a1_fff60974db704dbea29f3928d1f9df2c~mv2.jpg",
     },
     {
       name: "",
       position: "",
-      img: "https://drive.google.com/file/d/1RANtFfn72KAEPyq_xQuvwHG649NJOXxW/view?usp=sharing",
+      img: "https://static.wixstatic.com/media/ffb6a1_1cf8cf10e62b4cbeb10462dfe0f25f49~mv2.jpg/v1/crop/x_0,y_0,w_4000,h_5274/fill/w_365,h_481,al_c,q_80,usm_0.66_1.00_0.01,enc_auto/ffb6a1_1cf8cf10e62b4cbeb10462dfe0f25f49~mv2.jpg",
     },
     {
       name: "",
       position: "",
-      img: "https://drive.google.com/file/d/17w0OZ9uIaahIiAaGibm0XLg7OyckdeZI/view?usp=sharing",
+      img: "https://static.wixstatic.com/media/ffb6a1_6f9b0bf4ef17410d9babea0ff3d8f656~mv2.jpg/v1/crop/x_0,y_0,w_4000,h_5383/fill/w_356,h_480,al_c,q_80,usm_0.66_1.00_0.01,enc_auto/ffb6a1_6f9b0bf4ef17410d9babea0ff3d8f656~mv2.jpg",
+    },
+    {
+      name: "",
+      position: "",
+      img: "https://static.wixstatic.com/media/ffb6a1_4522715d255b4a5e92e04b8ac1e92c59~mv2.jpg/v1/crop/x_0,y_0,w_4000,h_5276/fill/w_366,h_483,al_c,q_80,usm_0.66_1.00_0.01,enc_auto/ffb6a1_4522715d255b4a5e92e04b8ac1e92c59~mv2.jpg",
     },
   ];
 
@@ -81,13 +86,13 @@ const TeamPage = () => {
             className="rounded-3xl overflow-hidden shadow-xl backdrop-blur bg-[#ffffff50] h-80 w-80 flex flex-col justify-center items-center gap-4"
             key={item.id}
           >
-            <div className="flex justify-center mt-4 items-center h-52 w-52 hover:h-96 hover:w-96 transition hover:ease-in ease-out duration-150">
+            <div className="flex justify-center mt-4 items-center h-52 w-52 hover:h-96 hover:w-96 ">
               <Image
                 src={item.img}
                 height={200}
                 width={200}
                 alt={item.name}
-                className="rounded-full border-solid border-white border-2 h-full w-full hover:rounded-none text-[#252525]"
+                className="transition-all ease-in-out duration-300 rounded-full border-solid border-white border-2 h-full w-full hover:rounded-none text-[#252525]"
               />
             </div>
             <div className="text-center">
